@@ -1,0 +1,84 @@
+Git:
+--------------------------------------------------
+Github life cycle:
+
+
+Step 1:	sr Test engineer or SDET to Team Leader
+	new Framework-- working directory
+	create own local repository
+		right click on project--
+			1) go to teams
+			2) click on share project
+			3) select the checkbox
+			4) click on finish
+	
+	they will add all files to stagging area
+			right click on project
+					1) go to teams
+					2) click on add index
+	
+	they will commit code to local git repository
+			right click on project
+					1) go to teams
+					2) click on commit and add some messsage
+
+			
+	they will create remote gitHub respository
+			1) click on plus sign
+			2) click on create repository
+			3) enter repository name
+			4) click on finish
+				https://github.com/prafpawar11/DecBatchGitDemo.git
+
+
+				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
+
+
+	they wil push code to github remote repository
+			right click on project
+					1) go to teams
+					2) click on master branch
+					3) add github remote repository url
+					4) enter username  an
+					5) enter the acccess token id
+				
+
+Step 2:
+	senior Test Engineer will send email to teammate
+	
+	Hi Team,
+		i have created a new framework on github.
+		please go ahead and clone it and start working on functionality
+		
+		github url:
+			https://github.com/prafpawar11/DecBatchGitDemo.git
+
+
+	Thanks and regards
+	
+============================================================================
+	https://github.com/prafpawar11/FreeCRMDecBatch.git
+
+
+
+	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
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
